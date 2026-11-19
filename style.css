@@ -1,0 +1,28 @@
+/*
+Theme Name: BlankLite
+Theme URI: https://komestudio.com/blanklite
+Author: hoangdacviet
+Author URI: https://komestudio.com
+Description: Ultra-lightweight, zero-bloat classic fallback and starter theme.
+Version: 1.0.0
+Requires at least: 5.2
+Tested up to: 7.1
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: blanklite
+Tags: one-column, translation-ready
+*/
+
+*,::before,::after{box-sizing:border-box}
+body{margin:0;font:1rem/1.6 system-ui,sans-serif;overflow-wrap:break-word}
+:where(.site-main){max-width:46rem;margin:0 auto;padding:1rem}
+img,video,iframe{max-width:100%;height:auto}
+.alignleft{float:left;margin:0 1rem 1rem 0}
+.alignright{float:right;margin:0 0 1rem 1rem}
+.aligncenter{display:block;margin:0 auto}
+.wp-caption{max-width:100%}
+.wp-caption-text,.gallery-caption{font-size:.875rem}
+.sticky,.bypostauthor{display:block}
+.comment-list{padding-left:1.5rem}
+.screen-reader-text{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}

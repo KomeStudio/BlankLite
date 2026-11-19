@@ -8,7 +8,7 @@ License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Tags: one-column, translation-ready
 
-Ultra-lightweight classic starter and fallback theme. No JavaScript, no bloat.
+Ultra-lightweight WordPress starter and fallback theme. No JavaScript, zero bloat, built for long-term stability.
 
 == Description ==
 

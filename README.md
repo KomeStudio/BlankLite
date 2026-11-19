@@ -87,7 +87,7 @@ Starring this repository and sharing the theme also helps a lot.
 
 ## About the author
 
-BlankLite is created by [hoangdacviet](https://hoangdacviet.github.io), founder of [Kome Studio](https://komestudio.com). Focused on minimalism and speed, he builds lightweight web tools and [Kome Games](https://kome.top), an instant-play platform for classic casual puzzles and retro arcade games with zero friction.
+BlankLite is created by [hoangdacviet](https://komestudio.com/hoangdacviet), founder of [Kome Studio](https://komestudio.com). Focused on minimalism and speed, he builds lightweight web tools and [Kome Games](https://kome.top), an instant-play platform for classic casual puzzles and retro arcade games with zero friction.
 
 - Website: [komestudio.com](https://komestudio.com)
 - Games: [kome.top](https://kome.top), free browser games with no sign-up

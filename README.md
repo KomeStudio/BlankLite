@@ -95,4 +95,5 @@ BlankLite is created by [hoangdacviet](https://hoangdacviet.github.io), founder 
 
 ## License
 
-BlankLite is licensed under the [GNU General Public License v2 or later](https://www.gnu.org/licenses/gpl-2.0.html). Copyright 2026 hoangdacviet.
+BlankLite is licensed under the [GNU General Public License v2 or later](https://www.gnu.org/licenses/gpl-2.0.html).
+Copyright 2026 hoangdacviet.
